@@ -1,0 +1,204 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Sony WH-1000XM5 Wireless Headphones",
+      "price": 349.99,
+      "category": "Electronics",
+      "image": "https://picsum.photos/seed/sony-headphones/600/400",
+      "description": "Premium wireless headphones with active noise cancellation and exceptional sound quality. Features up to 30 hours of battery life.",
+      "rating": 4.8,
+      "stock": 25
+    },
+    {
+      "id": 2,
+      "name": "Samsung Galaxy Tab S9",
+      "price": 799.99,
+      "category": "Electronics",
+      "image": "https://picsum.photos/seed/samsung-tablet/600/400",
+      "description": "Powerful Android tablet featuring a vibrant AMOLED display and S Pen support. Ideal for productivity, entertainment, and creative work.",
+      "rating": 4.7,
+      "stock": 18
+    },
+    {
+      "id": 3,
+      "name": "Logitech MX Master 3S Mouse",
+      "price": 99.99,
+      "category": "Electronics",
+      "image": "https://picsum.photos/seed/logitech-mouse/600/400",
+      "description": "Ergonomic wireless mouse with precision tracking and customizable buttons. Designed for comfortable and efficient daily productivity.",
+      "rating": 4.9,
+      "stock": 40
+    },
+    {
+      "id": 4,
+      "name": "Apple AirPods Pro 2",
+      "price": 249.99,
+      "category": "Electronics",
+      "image": "https://picsum.photos/seed/apple-airpods/600/400",
+      "description": "Wireless earbuds featuring active noise cancellation and adaptive audio. Includes a compact charging case for convenient everyday use.",
+      "rating": 4.8,
+      "stock": 32
+    },
+    {
+      "id": 5,
+      "name": "Anker 737 Power Bank",
+      "price": 149.99,
+      "category": "Electronics",
+      "image": "https://picsum.photos/seed/anker-powerbank/600/400",
+      "description": "High-capacity portable charger designed for smartphones, tablets, and laptops. Features fast charging and a digital power display.",
+      "rating": 4.6,
+      "stock": 45
+    },
+    {
+      "id": 6,
+      "name": "Nike Air Force 1 Sneakers",
+      "price": 115.00,
+      "category": "Fashion",
+      "image": "https://picsum.photos/seed/nike-sneakers/600/400",
+      "description": "Classic leather sneakers featuring a durable rubber sole and timeless design. Suitable for everyday casual wear.",
+      "rating": 4.8,
+      "stock": 35
+    },
+    {
+      "id": 7,
+      "name": "Levi's 501 Original Jeans",
+      "price": 89.50,
+      "category": "Fashion",
+      "image": "https://picsum.photos/seed/levis-jeans/600/400",
+      "description": "Classic straight-leg denim jeans made from durable cotton fabric. Features a traditional button fly and comfortable fit.",
+      "rating": 4.6,
+      "stock": 50
+    },
+    {
+      "id": 8,
+      "name": "Adidas Essentials Hoodie",
+      "price": 65.00,
+      "category": "Fashion",
+      "image": "https://picsum.photos/seed/adidas-hoodie/600/400",
+      "description": "Soft fleece hoodie designed for warmth and everyday comfort. Features an adjustable hood and front kangaroo pocket.",
+      "rating": 4.5,
+      "stock": 42
+    },
+    {
+      "id": 9,
+      "name": "Ray-Ban Wayfarer Sunglasses",
+      "price": 180.00,
+      "category": "Fashion",
+      "image": "https://picsum.photos/seed/rayban-sunglasses/600/400",
+      "description": "Iconic sunglasses featuring a lightweight frame and UV-protective lenses. Combines timeless style with everyday eye protection.",
+      "rating": 4.7,
+      "stock": 22
+    },
+    {
+      "id": 10,
+      "name": "Fossil Grant Chronograph Watch",
+      "price": 169.00,
+      "category": "Fashion",
+      "image": "https://picsum.photos/seed/fossil-watch/600/400",
+      "description": "Elegant chronograph wristwatch featuring a stainless steel case and leather strap. Designed for both formal and casual occasions.",
+      "rating": 4.6,
+      "stock": 19
+    },
+    {
+      "id": 11,
+      "name": "Philips Air Fryer XL",
+      "price": 199.99,
+      "category": "Home",
+      "image": "https://picsum.photos/seed/philips-airfryer/600/400",
+      "description": "Versatile air fryer that prepares crispy meals using circulating hot air. Features adjustable temperature controls and a spacious cooking basket.",
+      "rating": 4.8,
+      "stock": 28
+    },
+    {
+      "id": 12,
+      "name": "IKEA RANARP Desk Lamp",
+      "price": 49.99,
+      "category": "Home",
+      "image": "https://picsum.photos/seed/ikea-lamp/600/400",
+      "description": "Stylish adjustable desk lamp with a classic industrial-inspired design. Provides focused lighting for reading, studying, and working.",
+      "rating": 4.5,
+      "stock": 55
+    },
+    {
+      "id": 13,
+      "name": "Ninja Professional Blender",
+      "price": 129.99,
+      "category": "Home",
+      "image": "https://picsum.photos/seed/ninja-blender/600/400",
+      "description": "Powerful countertop blender designed for smoothies, sauces, and frozen drinks. Features multiple speed settings and durable stainless steel blades.",
+      "rating": 4.7,
+      "stock": 24
+    },
+    {
+      "id": 14,
+      "name": "Dyson V8 Cordless Vacuum",
+      "price": 399.99,
+      "category": "Home",
+      "image": "https://picsum.photos/seed/dyson-vacuum/600/400",
+      "description": "Lightweight cordless vacuum cleaner with strong suction for everyday cleaning. Easily converts into a handheld vacuum for furniture and tight spaces.",
+      "rating": 4.6,
+      "stock": 16
+    },
+    {
+      "id": 15,
+      "name": "KitchenAid Artisan Stand Mixer",
+      "price": 449.99,
+      "category": "Home",
+      "image": "https://picsum.photos/seed/kitchenaid-mixer/600/400",
+      "description": "Durable stand mixer designed for baking and food preparation. Includes multiple mixing speeds and a spacious stainless steel bowl.",
+      "rating": 4.9,
+      "stock": 12
+    },
+    {
+      "id": 16,
+      "name": "CeraVe Hydrating Facial Cleanser",
+      "price": 16.99,
+      "category": "Beauty",
+      "image": "https://picsum.photos/seed/cerave-cleanser/600/400",
+      "description": "Gentle facial cleanser formulated with ceramides and hyaluronic acid. Helps remove dirt while maintaining the skin's natural moisture barrier.",
+      "rating": 4.8,
+      "stock": 85
+    },
+    {
+      "id": 17,
+      "name": "The Ordinary Niacinamide 10% Serum",
+      "price": 12.00,
+      "category": "Beauty",
+      "image": "https://picsum.photos/seed/ordinary-serum/600/400",
+      "description": "Lightweight facial serum formulated with niacinamide and zinc. Helps improve the appearance of uneven skin tone and excess oil.",
+      "rating": 4.6,
+      "stock": 95
+    },
+    {
+      "id": 18,
+      "name": "Fenty Beauty Pro Filt'r Foundation",
+      "price": 40.00,
+      "category": "Beauty",
+      "image": "https://picsum.photos/seed/fenty-foundation/600/400",
+      "description": "Long-wearing foundation designed to provide smooth, buildable coverage. Features a soft matte finish suitable for various skin tones.",
+      "rating": 4.7,
+      "stock": 48
+    },
+    {
+      "id": 19,
+      "name": "Olaplex No. 3 Hair Perfector",
+      "price": 30.00,
+      "category": "Beauty",
+      "image": "https://picsum.photos/seed/olaplex-hair/600/400",
+      "description": "At-home hair treatment formulated to strengthen damaged hair. Helps improve hair texture and reduce breakage with regular use.",
+      "rating": 4.8,
+      "stock": 60
+    },
+    {
+      "id": 20,
+      "name": "La Roche-Posay Anthelios SPF 50",
+      "price": 36.99,
+      "category": "Beauty",
+      "image": "https://picsum.photos/seed/laroche-sunscreen/600/400",
+      "description": "Lightweight broad-spectrum sunscreen designed for daily facial protection. Provides SPF 50 protection with a comfortable, non-greasy finish.",
+      "rating": 4.7,
+      "stock": 72
+    }
+  ]
+}
